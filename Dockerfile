@@ -36,7 +36,7 @@ VOLUME /config
 VOLUME /data
 
 # expose port for deluge webui
-EXPOSE 8112
+EXPOSE 8112 58846
 
 # set permissions
 #################
